@@ -1,5 +1,5 @@
 task.spawn(function()
-    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Kurd-hub-51808"))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/wVKyT0YT"))()
 end)
 task.wait(0.2)
 
